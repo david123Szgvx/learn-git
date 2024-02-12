@@ -1,0 +1,64 @@
+ /* NAV-BAR HOVER STYLE */
+.about:hover{
+    border-bottom: 2px solid #f80230;
+ 
+    
+}
+
+/* .home{
+    border-bottom: 2px solid #f30833 ;
+    position: relative;
+} */
+
+
+
+
+
+
+/* HEADING BUTTON HOVER STYLE */
+.download:hover{
+    background-color: #e71138;
+    border-color: #eb0b34;;
+
+}
+
+
+
+.get:hover{
+    background-color: #db0d33;
+    border-color: #e43c5c;;
+
+}
+
+/* END */
+
+
+/* RECENT WORK
+GRAPHICS UI/UX WEB  */
+.graphics:hover{
+    background-color: #e43c5c;
+    color: #ffffff;
+}
+
+
+
+.ui:hover{
+    background-color: #e43c5c;
+    color: #ffffff;
+}
+
+
+.webb:hover{
+    background-color: #e43c5c;
+    color: #ffffff;
+}
+
+
+
+/* LOCATION, EMAIL, CALL HOVERING */
+.location-text:hover{
+    background-color: #e43c5b4b;
+    
+}
+
+
